@@ -138,9 +138,13 @@ Containers attendus :
 | `mongo_db` | Stockage MongoDB |
 | `app_data` | Pipeline ETL principal |
 
-### 4. Accéder au site web
+### 4. Accéder au site web LodgeLake
 
 Puis naviguer vers : [http://localhost:8000/LodgeLake](http://localhost:8000/LodgeLake)
+
+### 5. Accéder au Dashboard Streamlit
+
+Puis naviguer vers : [http://localhost:8000/dashboard](http://localhost:8000/dashboard)
 
 ---
 
